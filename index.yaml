@@ -1,0 +1,46 @@
+apiVersion: v1
+entries:
+  yourls:
+  - apiVersion: v1
+    appVersion: 1.7.3
+    created: 2019-03-14T21:31:23.014087313Z
+    description: Your Own URL Shortener
+    digest: ad22ddbd772cd4f5116eff756fc856f4a74072a6b722a25cf919ae8b3a0b8e0b
+    engine: gotpl
+    home: https://yourls.org
+    icon: https://yourls.org/images/yourls-logo.png
+    keywords:
+    - shortener
+    - url
+    - bitly
+    maintainers:
+    - email: yourls@yourls.org
+      name: YOURLS
+    name: yourls
+    sources:
+    - https://github.com/YOURLS/YOURLS
+    urls:
+    - https://charts.yourls.org/yourls-1.1.0.tgz
+    version: 1.1.0
+  - apiVersion: v1
+    appVersion: 1.7.2
+    created: 2019-03-14T21:31:23.012379869Z
+    description: Your Own URL Shortener
+    digest: 64db1b5b14d6e26a9b00a2a8a116086debb3dd24040fac3f755d710a449e0c1b
+    engine: gotpl
+    home: https://yourls.org
+    icon: https://yourls.org/images/yourls-logo.png
+    keywords:
+    - shortener
+    - url
+    - bitly
+    maintainers:
+    - email: yourls@yourls.org
+      name: YOURLS
+    name: yourls
+    sources:
+    - https://github.com/YOURLS/YOURLS
+    urls:
+    - https://charts.yourls.org/yourls-1.0.0.tgz
+    version: 1.0.0
+generated: 2019-03-14T21:31:23.009716233Z
